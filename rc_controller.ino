@@ -54,8 +54,6 @@ void loop() {
     // forward
     if (incomingByte == forwardCmd) {
       Serial.println("Forward");
-      // digitalWrite(enableLeft, HIGH);
-      // digitalWrite(enableRight, HIGH);
       analogWrite(enableLeft, motorSpeed);
       analogWrite(enableRight, motorSpeed);
       digitalWrite(pinLeft1, HIGH);
