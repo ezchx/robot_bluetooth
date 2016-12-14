@@ -11,6 +11,6 @@ Adafruit Bluefruit LE UART Friend - nRF51822 BLE module from Nordic Semiconducto
 http://adafru.it/2479
 
 Apps:  
-  o nRF Toolbox – IOS & Android  
-  o Adafruit Bluefruit LE Connect – IOS & Android  
-  o BLEJoyStick – IOS
+nRF Toolbox – IOS & Android  
+Adafruit Bluefruit LE Connect – IOS & Android  
+BLEJoyStick – IOS
