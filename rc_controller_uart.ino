@@ -5,10 +5,10 @@
 // Initialize variables
 
 // Set pins
-int enableLeft = 9; // left side enable pin
+int enableLeft = 9; // left side enable pin - must be a variable power pin
 int pinLeft1 = 2; // left side control pin 1
 int pinLeft2 = 3; // left side control pin 2
-int enableRight = 6; // right side enable pin
+int enableRight = 6; // right side enable pin - must be a variable power pin
 int pinRight1 = 4; // right side control pin 1
 int pinRight2 = 5; // right side control pin 2
 
