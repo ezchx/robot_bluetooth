@@ -10,7 +10,7 @@ http://www.sainsmart.com/sainsmart-uno-r3-sensor-shield-v5-4wd-mobile-car-l298n-
 Adafruit Bluefruit LE UART Friend - nRF51822 BLE module from Nordic Semiconductor:  
 http://adafru.it/2479
 
-Apps:  
+Compatible Apps:  
 o nRF Toolbox – IOS & Android  
 o Adafruit Bluefruit LE Connect – IOS & Android  
 o BLEJoyStick – IOS
