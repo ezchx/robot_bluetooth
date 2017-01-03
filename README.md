@@ -1,4 +1,4 @@
-# robot_rc_controller
+# robot_bluetooth
 
 Works with any Arduino robot project with a right / left motor drive system. Just change the pin values to match your project and the directional commands to match your Bluetooth app and you are good to go!
 
